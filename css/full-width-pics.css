@@ -1,0 +1,90 @@
+/*!
+ * Start Bootstrap - Full Width Pics (https://startbootstrap.com/template-overviews/full-width-pics)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-width-pics/blob/master/LICENSE)
+ */
+body {
+    padding-top: 56px;
+}
+
+.bg-image-full {
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+p {
+    color: black;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+.navbar-bronze .navbar-brand {
+    color: #96694c;
+}
+
+.navbar-bronze .navbar-brand:hover, .navbar-bronze .navbar-brand:focus {
+    color: #96694c;
+}
+
+.navbar-bronze .navbar-nav .nav-link {
+    color: rgba(150, 105, 76, 0.5);
+}
+
+.navbar-bronze .navbar-nav .nav-link:hover, .navbar-bronze .navbar-nav .nav-link:focus {
+    color: rgba(150, 105, 76, 0.75);
+}
+
+.navbar-bronze .navbar-nav .nav-link.disabled {
+    color: rgba(150, 105, 76, 0.25);
+}
+
+.navbar-bronze .navbar-nav .show > .nav-link,
+.navbar-bronze .navbar-nav .active > .nav-link,
+.navbar-bronze .navbar-nav .nav-link.show,
+.navbar-bronze .navbar-nav .nav-link.active {
+    color: #96694c;
+}
+
+.navbar-bronze .navbar-toggler {
+    color: rgba(150, 105, 76, 0.5);
+    border-color: rgba(150, 105, 76, 0.1);
+}
+
+.navbar-bronze .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28150, 105, 76, 0.5%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.navbar-bronze .navbar-text {
+    color: rgba(150, 105, 76, 0.5);
+}
+
+.navbar-bronze .navbar-text a {
+    color: #96694c;
+}
+
+.navbar-bronze .navbar-text a:hover, .navbar-bronze .navbar-text a:focus {
+    color: #96694c;
+}
+
+.bg-bronze {
+    background-color: #96694c !important;
+}
+
+a.bg-bronze:hover, a.bg-bronze:focus,
+button.bg-bronze:hover,
+button.bg-bronze:focus {
+    background-color: #1d2124 !important;
+}
